@@ -44,7 +44,7 @@
 				"db"
 			],
 			"name": "web",
-			"image": "vagdevik/user-wishlist-app",
+			"image": "mah35h/wlist-app",
 			"memory": 100,
 			"portMappings": [{
 				"containerPort": 80,
